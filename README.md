@@ -45,10 +45,13 @@ Created groups Students and IT_Admins and assigned Luis David and Student User t
 
 
 4. Assign Admin Roles
-![User List](./ )
+   Made sure ldavid_admin@example.com was Super Admin
+   Made sure student_user@example.com was Read-Only Admin
+![User List](./screenshots/Screenshot%202025-11-09%20161602.png)
 
 
-
+5. Login Policies Confirmation
+   
 ![User List](./ )
 ### **Phase 2 — SAML + SSO Integration**
 1.
