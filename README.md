@@ -44,6 +44,7 @@ Created groups Students and IT_Admins and assigned Luis David and Student User t
   ![User List](./screenshots/Screenshot%202025-11-09%20155830.png)
 
 
+4. Assign Admin Roles
 ![User List](./ )
 
 
