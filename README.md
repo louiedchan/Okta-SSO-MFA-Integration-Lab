@@ -51,10 +51,11 @@ Created groups Students and IT_Admins and assigned Luis David and Student User t
 
 
 5. Login Policies Confirmation
-   
-![User List](./ )
+   Confirm a default sign-on policy exists
+![User List](./screenshots/Screenshot%202025-11-09%20161828.png )
 ### **Phase 2 — SAML + SSO Integration**
 1.
+![User List](./ )
 
 📸 **Screenshot #2:** Student LabUser details screen.
 
