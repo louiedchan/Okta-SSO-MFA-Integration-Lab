@@ -33,22 +33,11 @@ The goal is to simulate how an **IAM Engineer** would securely integrate Okta wi
 
 ## 🪜 Step-by-Step Implementation
 
-### **Step 1 — Set Up Free Okta Developer Account**
-1. Go to [https://developer.okta.com/signup/](https://developer.okta.com/signup/)
-2. Register with your student or personal email.
-3. Log in to your tenant: `https://dev-xxxxxx.okta.com`
+### **Phase 1 — Environment & Directory Setup**
+1. 
 
-📸 **Screenshot #1:** Okta Admin Dashboard (with your dev URL visible)
-
----
-
-### **Step 2 — Create a Test User**
-1. Go to **Directory → People → Add Person**
-2. Create user:  
-   - First Name: `Student`  
-   - Last Name: `LabUser`  
-   - Email: `student.lab@okta.local`
-3. Assign user to **Default Group**.
+### **Phase 2 — SAML + SSO Integration**
+1.
 
 📸 **Screenshot #2:** Student LabUser details screen.
 
