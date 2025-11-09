@@ -37,7 +37,8 @@ The goal is to simulate how an **IAM Engineer** would securely integrate Okta wi
 1. Dashboard or Getting Started screen showing my name and tenant ID in the top-right corner.
 ![User List](./screenshots/Screenshot%202025-11-08%20154748.png)
 2. Create Users
-3. 
+   ![User List](./screenshots/Screenshot%202025-11-09%20155330.png)
+4. 
 ### **Phase 2 — SAML + SSO Integration**
 1.
 
