@@ -34,7 +34,8 @@ The goal is to simulate how an **IAM Engineer** would securely integrate Okta wi
 ## 🪜 Step-by-Step Implementation
 
 ### **Phase 1 — Environment & Directory Setup**
-1. 
+
+![User List](./screenshots/Screenshot%202025-09-04%20121033.png)
 
 ### **Phase 2 — SAML + SSO Integration**
 1.
