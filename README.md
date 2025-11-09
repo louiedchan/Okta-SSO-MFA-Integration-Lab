@@ -38,7 +38,17 @@ The goal is to simulate how an **IAM Engineer** would securely integrate Okta wi
 ![User List](./screenshots/Screenshot%202025-11-08%20154748.png)
 2. Create Users
    ![User List](./screenshots/Screenshot%202025-11-09%20155330.png)
-4. 
+
+3. Create Groups
+Created groups Students and IT_Admins and assigned Luis David and Student User to their respective groups.
+  ![User List](./ )
+
+
+![User List](./ )
+
+
+
+![User List](./ )
 ### **Phase 2 — SAML + SSO Integration**
 1.
 
