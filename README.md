@@ -41,7 +41,7 @@ The goal is to simulate how an **IAM Engineer** would securely integrate Okta wi
 
 3. Create Groups
 Created groups Students and IT_Admins and assigned Luis David and Student User to their respective groups.
-  ![User List](./ )
+  ![User List](./screenshots/Screenshot%202025-11-09%20155830.png)
 
 
 ![User List](./ )
