@@ -66,7 +66,7 @@ Created groups Students and IT_Admins and assigned Luis David and Student User t
 3. Download the IdP Metadata
 
 
-![User List](./ )
+![User List](./screenshots/Screenshot%202025-11-09%20181846.png)
 
 4. Assign Users to the App
    
