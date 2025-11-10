@@ -68,6 +68,8 @@ Created groups Students and IT_Admins and assigned Luis David and Student User t
 
 ![User List](./screenshots/Screenshot%202025-11-09%20181846.png)
 
+![User List](./)
+
 4. Assign Users to the App
    
 
