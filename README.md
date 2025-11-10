@@ -54,18 +54,55 @@ Created groups Students and IT_Admins and assigned Luis David and Student User t
    Confirm a default sign-on policy exists
 ![User List](./screenshots/Screenshot%202025-11-09%20161828.png )
 ### **Phase 2 — SAML + SSO Integration**
-1.
+1.Create a New SAML Application naming it SimulatedPortal
+
+
+![User List](./screenshots/Screenshot%202025-11-09%20181030.png)
+
+2. Configure SAML Settings
+
 ![User List](./ )
+
+3. Download the IdP Metadata
+
+
+![User List](./ )
+
+4. Assign Users to the App
+   
+
+![User List](./ )
+
 
 📸 **Screenshot #2:** Student LabUser details screen.
 
 ---
 
-### **Step 3 — Enable MFA**
-1. Navigate to **Security → Multifactor**.  
-2. Enable **Okta Verify** and **Email**.  
-3. Set MFA required for all users under **Security → Authentication → Sign-On Policy**.
+### **Phase 3 — Automation: Onboarding & Offboarding**
+1.
 
+
+![User List](./ )
+
+
+2.
+
+
+![User List](./ )
+
+
+3.
+
+
+
+![User List](./ )
+
+
+4.
+
+
+
+![User List](./ )
 📸 **Screenshot #3:** MFA policies showing Okta Verify & Email enabled.
 
 ---
