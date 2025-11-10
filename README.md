@@ -61,7 +61,7 @@ Created groups Students and IT_Admins and assigned Luis David and Student User t
 
 2. Configure SAML Settings
 
-![User List](./ )
+![User List](./screenshots/Screenshot%202025-11-09%20181500.png)
 
 3. Download the IdP Metadata
 
